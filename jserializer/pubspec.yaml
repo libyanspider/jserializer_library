@@ -10,7 +10,7 @@ dependencies:
   meta: '>=1.0.0 <2.0.0'
   type_plus:
     git:
-      url: https://github.com/erabti/jserializer_library.git
+      url: https://github.com/libyanspider/jserializer_library.git
       ref: perf/serialization-optimization
       path: type_plus/
 
